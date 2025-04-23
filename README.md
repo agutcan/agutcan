@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Actualmente soy alumno de practicas en una empresa llamada Smart Rent<br>- 📚 Este año acabo mi formación de desarrollador de aplicaciónes web, he aprendido a usar Java, Python, HTML, CSS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio y el proyecto final del curso que estoy acabando</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Actualmente soy alumno de practicas en una empresa llamada Smart Rent<br>- 📚 Este año acabo mi formación de desarrollador de aplicaciónes web, he aprendido a usar Java, Python, HTML, CSS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio y el proyecto final del curso que estoy realizando</p>
 
 ###
 
