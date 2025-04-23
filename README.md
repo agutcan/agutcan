@@ -22,19 +22,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola buenas!! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Actualmente soy alumno de practicas en una empresa llamada Smart Rent<br>- 📚 Este año acabo mi formación de desarrollador de aplicaciónes web, he aprendido a usar Java, Python, HTML, CSS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio y el proyecto final del curso que estoy acabando</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y herramientas</h3>
 
 ###
 
