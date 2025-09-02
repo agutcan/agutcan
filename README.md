@@ -114,18 +114,6 @@
 
 ###
 
-<h3 align="left">🔥 Mis proyectos:</h3>
-
-###
-
-<ul align="left">
-  <li><a href="https://github.com/agutcan/ArenaGG" target="_blank">⚔️ ArenaGG - Plataforma de torneos</a></li>
-  <li><a href="https://github.com/agutcan/Proyecto2" target="_blank">💻 Proyecto 2 - Descripción breve</a></li>
-  <li><a href="https://github.com/agutcan/Proyecto3" target="_blank">📱 Proyecto 3 - Descripción breve</a></li>
-</ul>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agutcan/agutcan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agutcan/agutcan/output/pacman-contribution-graph.svg">
