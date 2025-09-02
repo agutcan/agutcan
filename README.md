@@ -114,15 +114,22 @@
 
 ###
 
-<h3 align="left">🔥   Mis estadísticas:</h3>
+<h3 align="left">🔥 Mis proyectos:</h3>
 
 ###
 
+<ul align="left">
+  <li><a href="https://github.com/agutcan/ArenaGG" target="_blank">⚔️ ArenaGG - Plataforma de torneos</a></li>
+  <li><a href="https://github.com/agutcan/Proyecto2" target="_blank">💻 Proyecto 2 - Descripción breve</a></li>
+  <li><a href="https://github.com/agutcan/Proyecto3" target="_blank">📱 Proyecto 3 - Descripción breve</a></li>
+</ul>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=agutcan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
+<h3 align="left">🔥   Mis estadísticas:</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agutcan/agutcan/output/pacman-contribution-graph-dark.svg">
