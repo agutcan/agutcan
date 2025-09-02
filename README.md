@@ -6,10 +6,8 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/aaron-gutierrez-ca%C3%B1a-12815326a/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-    <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-    <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-    <a href=""><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-    <a href=""><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
+    <a href="mailto:aaronolo121@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>    
+    <a href="https://www.instagram.com/aaron_guti05/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
 </div>
 
 ###
@@ -28,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Actualmente soy alumno de practicas en una empresa llamada Smart Rent<br>- 📚 Este año acabo mi formación de desarrollador de aplicaciónes web, he aprendido a usar Java, Python, HTML, CSS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio y el proyecto final del curso que estoy realizando</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Recien graduado en Desarrollo de Aplicaciones Web<br>- 📚 Tengo experiencia con Java, Python, HTML, CSS, JS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por mi propia cuenta</p>
 
 ###
 
