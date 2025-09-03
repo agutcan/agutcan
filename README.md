@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Recien graduado en Desarrollo de Aplicaciones Web<br>- 📚 Tengo experiencia con Java, Python, HTML, CSS, JS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por mi propia cuenta</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Recien graduado en Desarrollo de Aplicaciones Web<br>- 📚 Tengo experiencia con Java, Python, HTML, CSS, JS, Boostrap, docker, aws, etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por cuenta propia</p>
 
 ###
 
