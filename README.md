@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y estoy acabando Desarrollo de Aplicaciones Multiplataforma<br>- 📚 Tengo experiencia con Java (SpringBoot), Python (Django), Solidity, JavaScript, TypeScript, HTML, CSS, Boostrap, Angular, PostgreSQL, MYSQL, Docker, AWS, GitHub, GitHub Actions, TortoiseSVN etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por cuenta propia</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y estoy acabando Desarrollo de Aplicaciones Multiplataforma<br>- 📚 Tengo experiencia con Java (SpringBoot), Python (Django), Solidity, JavaScript, TypeScript, HTML, CSS, Boostrap, Angular, PostgreSQL, MYSQL, Docker, AWS, GitHub, TortoiseSVN etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por cuenta propia</p>
 
 ###
 
