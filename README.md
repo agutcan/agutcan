@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma<br>- 📚 Principalmente tengo experiencia con Java (SpringBoot), Python (Django), Solidity, JavaScript, TypeScript, HTML, CSS, Boostrap, Angular, PostgreSQL, MYSQL, Docker, AWS, GitHub, TortoiseSVN etc...<br>- ⚡ Actualmente en mi tiempo libre me dedico a hacer ejercicio, escuchar musica y realizar proyectos por cuenta propia</p>
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma<br>- 💻 Principalmente tengo experiencia en desarrollo backend con Java (Spring Boot), Python (Django y FastAPI) y C# (.NET y .NET MAUI).<br>- ☁️ También he trabajado con Docker, AWS, PostgreSQL, MySQL, Git y GitHub.<br>- 📱 Además, tengo conocimientos de desarrollo multiplataforma con .NET MAUI y experiencia manteniendo aplicaciones en Visual Basic.<br>- ⚡ En mi tiempo libre disfruto creando proyectos personales, haciendo ejercicio y aprendiendo nuevas tecnologías.<br>- ⚡ 
 
 ###
 
@@ -42,11 +42,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo" />
   <img width="12" />
   
   <!-- Frameworks / Librerías / Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".net logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
