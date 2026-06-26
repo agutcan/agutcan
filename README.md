@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma<br>- 💻 Principalmente tengo experiencia en desarrollo backend con Java (Spring Boot), Python (Django y FastAPI) y C# (.NET y .NET MAUI).<br>- ☁️ También he trabajado con Docker, AWS, PostgreSQL, MySQL, Git y GitHub.<br>- 📱 Además, tengo conocimientos de desarrollo multiplataforma con .NET MAUI y experiencia manteniendo aplicaciones en Visual Basic.<br>- ⚡ En mi tiempo libre disfruto creando proyectos personales, haciendo ejercicio y aprendiendo nuevas tecnologías.<br>- ⚡ 
+<p align="left">Soy de Cádiz, Jerez de la Frontera<br><br>- 🔭 Graduado en Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma<br>- 💻 Principalmente tengo experiencia en desarrollo backend con Java (Spring Boot), Python (Django y FastAPI) y C# (.NET y .NET MAUI).<br>- ☁️ También he trabajado con Docker, AWS, PostgreSQL, MySQL, Git y GitHub.<br>- 📱 Además, tengo conocimientos de desarrollo multiplataforma con .NET MAUI y experiencia manteniendo aplicaciones en Visual Basic.<br>- ⚡ En mi tiempo libre disfruto creando proyectos personales, haciendo ejercicio y aprendiendo nuevas tecnologías.<br>
 
 ###
 
